@@ -1,0 +1,17 @@
+@media (max-width: 767px){
+	.type_writter h1{
+		font-size: 30px!important;
+	}
+	.gallery a{
+		width: 100%;
+		display: block;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.type_writter h1{
+		font-size: 50px!important;
+	}
+	.gallery a{
+		width: 50%;
+	}
+}

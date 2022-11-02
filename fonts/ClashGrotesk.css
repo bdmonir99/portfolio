@@ -1,0 +1,14 @@
+@font-face {
+			  font-family: ClashGrotesk bold;
+			  src: url(https://github.com/bdmonir99/portfolio/blob/main/fonts/ClashGrotesk-Bold.ttf);
+			  src: url(https://github.com/bdmonir99/portfolio/blob/main/fonts/ClashGrotesk-Bold.woff);
+			}
+			@font-face {
+			  font-family: ClashGrotesk;
+			  src: url(https://github.com/bdmonir99/portfolio/blob/main/fonts/ClashGrotesk-Regular.ttf);
+			  src: url(https://github.com/bdmonir99/portfolio/blob/main/fonts/ClashGrotesk-Regular.woff);
+			}
+			
+			.mm{
+				color: red;
+			}

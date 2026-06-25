@@ -1,0 +1,14 @@
+@media only screen and (max-width:991.9px){
+	.bdr_right{
+		border: none;
+	}
+}
+@media only screen and (max-width:400px){
+	#aiChatArea{
+	bottom: 30px; 
+	right: 20px;
+	left: 20px!important;
+	width: 100%!important;
+	max-width: 88%!important;
+}
+}

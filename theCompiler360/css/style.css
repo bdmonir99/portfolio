@@ -1105,3 +1105,11 @@ body{
 	color: #fff;
 	cursor: pointer;
 }
+.micBtn{
+	background: transparent;
+	color: #777;
+	height: 40px;
+	width: 40px;
+	border: none;
+
+}
